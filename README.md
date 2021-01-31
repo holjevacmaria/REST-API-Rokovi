@@ -1,2 +1,2 @@
-# REST-API-Rokovi
-REST API kreiran za potrebe kolegija 'Programiranje 3'
+# P3RESTAPI
+API za kolegij Programiranje 3
